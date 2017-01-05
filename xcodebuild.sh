@@ -21,7 +21,7 @@ APPSTORECODE_SIGN_IDENTITY="iPhone Distribution: xxxx"
 APPSTOREROVISIONING_PROFILE_NAME="xxxx-xxxx-xxxx-xxxx-xxxx"
 
 #企业(enterprise)证书名#描述文件
-ENTERPRISECODE_SIGN_IDENTITY="iPhone Distribution: xxxx
+ENTERPRISECODE_SIGN_IDENTITY="iPhone Distribution: xxxx"
 ENTERPRISEROVISIONING_PROFILE_NAME="693bc1e0-7f7a-4fba-8a08-977ffb7fb296"
 
 #加载各个版本的plist文件
