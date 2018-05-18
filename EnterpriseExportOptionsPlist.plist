@@ -3,9 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>provisioningProfiles</key>
-	<dict/>
-	<key>你的bundle ID</key>
-	<string>描述文件UUID，和脚本中的一样</string>
+	<dict>
+		<key>你的bundle ID</key>
+		<string>描述文件UUID，和脚本中的一样</string>
+	</dict>
 	<key>method</key>
 	<string>enterprise</string>
 </dict>
